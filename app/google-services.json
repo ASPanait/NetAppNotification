@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494109352989",
+    "project_id": "netappnotification-53d47",
+    "storage_bucket": "netappnotification-53d47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494109352989:android:17fea49d4630b4731ad2f4",
+        "android_client_info": {
+          "package_name": "com.andreispanait.netappnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494109352989-p7fk9sa97b5k2v7a040k1qsjn9016h0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDshiB_7h8d5L-l29n0p9WsOLPQhN8vNa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494109352989-p7fk9sa97b5k2v7a040k1qsjn9016h0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
