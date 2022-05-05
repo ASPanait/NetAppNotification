@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NetAppNotification</string>
+    <string name="token_prefisso">Token: %s</string>
+    <string name="ricevi_token">Ricevi token</string>
 </resources>
